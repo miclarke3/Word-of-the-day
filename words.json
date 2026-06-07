@@ -1,33 +1,1423 @@
 [
-  {"word": "ubiquitous", "part_of_speech": "adjective", "definition": "seeming to be everywhere at once.", "real_world": "Reach for it when something has become so common it's hard to avoid \u2014 an app, a brand, a phrase.", "example": "Those QR-code menus became ubiquitous almost overnight."},
-  {"word": "pragmatic", "part_of_speech": "adjective", "definition": "dealing with things sensibly and practically rather than idealistically.", "real_world": "Useful in work conversations to praise a realistic choice over a perfect-but-impractical one.", "example": "Let's be pragmatic \u2014 ship the simple version now and improve it later."},
-  {"word": "candor", "part_of_speech": "noun", "definition": "honest, straightforward expression.", "real_world": "Name the quality you want (or appreciate) in a hard conversation or honest feedback.", "example": "I appreciated her candor about why the project slipped."},
-  {"word": "tenuous", "part_of_speech": "adjective", "definition": "very weak or flimsy; barely holding together.", "real_world": "A polite way to push back on a shaky argument or a stretch of a connection.", "example": "The link between those two events is pretty tenuous."},
-  {"word": "succinct", "part_of_speech": "adjective", "definition": "briefly and clearly expressed.", "real_world": "Ask for or praise brevity in emails, docs, and meetings.", "example": "Can you give me the succinct version before the call?"},
-  {"word": "salient", "part_of_speech": "adjective", "definition": "most noticeable or important.", "real_world": "Steer a rambling discussion back to what actually matters.", "example": "The salient point is that we run out of runway by March."},
-  {"word": "prudent", "part_of_speech": "adjective", "definition": "acting with care and foresight; sensible.", "real_world": "Justify a cautious decision about money, risk, or timing without sounding fearful.", "example": "It's prudent to keep three months of expenses saved."},
-  {"word": "nuance", "part_of_speech": "noun", "definition": "a subtle difference or shade of meaning.", "real_world": "Signal that a topic isn't black-and-white before you weigh in.", "example": "There's a lot of nuance here that the headline misses."},
-  {"word": "gregarious", "part_of_speech": "adjective", "definition": "sociable and fond of company.", "real_world": "A warm, precise way to describe an outgoing person.", "example": "He's gregarious \u2014 he'll know half the room within ten minutes."},
-  {"word": "ostensible", "part_of_speech": "adjective", "definition": "stated or appearing to be true, but perhaps not the real reason.", "real_world": "Politely flag a suspected hidden motive.", "example": "The ostensible reason for the meeting was planning, but it felt like a review."},
-  {"word": "ameliorate", "part_of_speech": "verb", "definition": "to make a bad situation better or less painful.", "real_world": "Sound precise when talking about easing a problem you can't fully fix.", "example": "Better lighting won't end the crime but it may ameliorate it."},
-  {"word": "juxtapose", "part_of_speech": "verb", "definition": "to place side by side, usually for contrast.", "real_world": "Handy when comparing ideas, designs, or sets of numbers.", "example": "Juxtapose last year's figures with this year's and the trend jumps out."},
-  {"word": "equivocate", "part_of_speech": "verb", "definition": "to use vague language deliberately to avoid committing.", "real_world": "Call out (or consciously avoid) a dodgy non-answer.", "example": "Stop equivocating \u2014 are we doing this or not?"},
-  {"word": "magnanimous", "part_of_speech": "adjective", "definition": "generous or forgiving, especially toward a rival.", "real_world": "Describe gracious behavior, particularly after winning or after conflict.", "example": "She was magnanimous in victory and thanked her opponent."},
-  {"word": "pedantic", "part_of_speech": "adjective", "definition": "overly concerned with tiny details or formal rules.", "real_world": "Gently flag nitpicking \u2014 often used to soften your own correction.", "example": "I don't want to be pedantic, but it's 'fewer,' not 'less.'"},
-  {"word": "cogent", "part_of_speech": "adjective", "definition": "clear, logical, and convincing.", "real_world": "High praise for a well-built argument.", "example": "He made a cogent case for delaying the launch."},
-  {"word": "ephemeral", "part_of_speech": "adjective", "definition": "lasting for a very short time.", "real_world": "Adds weight when talking about fleeting things \u2014 trends, moments, attention.", "example": "Internet fame is ephemeral; here today, forgotten next week."},
-  {"word": "laconic", "part_of_speech": "adjective", "definition": "using very few words.", "real_world": "Describe someone terse \u2014 or aim for it yourself when less is more.", "example": "His laconic 'fine' told me it was not, in fact, fine."},
-  {"word": "fastidious", "part_of_speech": "adjective", "definition": "very attentive to detail and cleanliness; hard to please.", "real_world": "Describe a meticulous person or an exacting standard.", "example": "She's fastidious about her code \u2014 every variable named just so."},
-  {"word": "circumspect", "part_of_speech": "adjective", "definition": "cautious; weighing all the consequences before acting.", "real_world": "Justify holding back judgment or information until you know more.", "example": "Be circumspect about what you share before the deal closes."},
-  {"word": "galvanize", "part_of_speech": "verb", "definition": "to shock or excite someone into taking action.", "real_world": "Name the moment that finally spurs a person or group to move.", "example": "The looming deadline finally galvanized the team."},
-  {"word": "arbitrary", "part_of_speech": "adjective", "definition": "based on random choice rather than reason.", "real_world": "Challenge a rule or number that seems made up.", "example": "The 200-word limit feels completely arbitrary."},
-  {"word": "meticulous", "part_of_speech": "adjective", "definition": "extremely careful and precise.", "real_world": "Strong, specific praise for thorough work.", "example": "His meticulous notes saved us when the server crashed."},
-  {"word": "innocuous", "part_of_speech": "adjective", "definition": "harmless; unlikely to offend or cause trouble.", "real_world": "Describe something that seems harmless \u2014 sometimes deceptively so.", "example": "It was an innocuous question that quietly changed the whole interview."},
-  {"word": "reticent", "part_of_speech": "adjective", "definition": "reluctant to speak about one's thoughts or feelings.", "real_world": "More precise than 'shy' for someone who holds back.", "example": "He's reticent about his past, so don't push it."},
-  {"word": "tangible", "part_of_speech": "adjective", "definition": "real and concrete; able to be clearly seen or measured.", "real_world": "Demand real results over vague promises.", "example": "I want tangible progress by Friday, not just plans."},
-  {"word": "paradigm", "part_of_speech": "noun", "definition": "a typical model or pattern of how something works or is thought about.", "real_world": "Sounds sharp when describing a fundamental shift in how things are done.", "example": "Remote work was a genuine paradigm shift for the company."},
-  {"word": "astute", "part_of_speech": "adjective", "definition": "sharp, perceptive, and good at judging situations.", "real_world": "A clean compliment for someone's insight.", "example": "That was an astute read of the room."},
-  {"word": "mitigate", "part_of_speech": "verb", "definition": "to make something less severe or harmful.", "real_world": "The precise word for reducing risk or damage \u2014 common in work and finance.", "example": "We bought insurance to mitigate the risk."},
-  {"word": "esoteric", "part_of_speech": "adjective", "definition": "understood by only a small group with specialized knowledge.", "real_world": "Describe niche knowledge without sounding dismissive.", "example": "The talk got esoteric fast \u2014 I lost the thread after slide three."},
-  {"word": "amenable", "part_of_speech": "adjective", "definition": "open and willing to agree or cooperate.", "real_world": "Test the waters before proposing something: are they amenable to it?", "example": "She seemed amenable to pushing the meeting to next week."}
+{
+"word": "ubiquitous",
+"part_of_speech": "adjective",
+"definition": "seeming to be everywhere at once.",
+"real_world": "Reach for it when something has become so common it's hard to avoid — an app, a brand, a phrase.",
+"example": "Those QR-code menus became ubiquitous almost overnight."
+},
+{
+"word": "pragmatic",
+"part_of_speech": "adjective",
+"definition": "dealing with things sensibly and practically rather than idealistically.",
+"real_world": "Useful in work conversations to praise a realistic choice over a perfect-but-impractical one.",
+"example": "Let's be pragmatic — ship the simple version now and improve it later."
+},
+{
+"word": "candor",
+"part_of_speech": "noun",
+"definition": "honest, straightforward expression.",
+"real_world": "Name the quality you want (or appreciate) in a hard conversation or honest feedback.",
+"example": "I appreciated her candor about why the project slipped."
+},
+{
+"word": "tenuous",
+"part_of_speech": "adjective",
+"definition": "very weak or flimsy; barely holding together.",
+"real_world": "A polite way to push back on a shaky argument or a stretch of a connection.",
+"example": "The link between those two events is pretty tenuous."
+},
+{
+"word": "succinct",
+"part_of_speech": "adjective",
+"definition": "briefly and clearly expressed.",
+"real_world": "Ask for or praise brevity in emails, docs, and meetings.",
+"example": "Can you give me the succinct version before the call?"
+},
+{
+"word": "salient",
+"part_of_speech": "adjective",
+"definition": "most noticeable or important.",
+"real_world": "Steer a rambling discussion back to what actually matters.",
+"example": "The salient point is that we run out of runway by March."
+},
+{
+"word": "prudent",
+"part_of_speech": "adjective",
+"definition": "acting with care and foresight; sensible.",
+"real_world": "Justify a cautious decision about money, risk, or timing without sounding fearful.",
+"example": "It's prudent to keep three months of expenses saved."
+},
+{
+"word": "nuance",
+"part_of_speech": "noun",
+"definition": "a subtle difference or shade of meaning.",
+"real_world": "Signal that a topic isn't black-and-white before you weigh in.",
+"example": "There's a lot of nuance here that the headline misses."
+},
+{
+"word": "gregarious",
+"part_of_speech": "adjective",
+"definition": "sociable and fond of company.",
+"real_world": "A warm, precise way to describe an outgoing person.",
+"example": "He's gregarious — he'll know half the room within ten minutes."
+},
+{
+"word": "ostensible",
+"part_of_speech": "adjective",
+"definition": "stated or appearing to be true, but perhaps not the real reason.",
+"real_world": "Politely flag a suspected hidden motive.",
+"example": "The ostensible reason for the meeting was planning, but it felt like a review."
+},
+{
+"word": "ameliorate",
+"part_of_speech": "verb",
+"definition": "to make a bad situation better or less painful.",
+"real_world": "Sound precise when talking about easing a problem you can't fully fix.",
+"example": "Better lighting won't end the crime but it may ameliorate it."
+},
+{
+"word": "juxtapose",
+"part_of_speech": "verb",
+"definition": "to place side by side, usually for contrast.",
+"real_world": "Handy when comparing ideas, designs, or sets of numbers.",
+"example": "Juxtapose last year's figures with this year's and the trend jumps out."
+},
+{
+"word": "equivocate",
+"part_of_speech": "verb",
+"definition": "to use vague language deliberately to avoid committing.",
+"real_world": "Call out (or consciously avoid) a dodgy non-answer.",
+"example": "Stop equivocating — are we doing this or not?"
+},
+{
+"word": "magnanimous",
+"part_of_speech": "adjective",
+"definition": "generous or forgiving, especially toward a rival.",
+"real_world": "Describe gracious behavior, particularly after winning or after conflict.",
+"example": "She was magnanimous in victory and thanked her opponent."
+},
+{
+"word": "pedantic",
+"part_of_speech": "adjective",
+"definition": "overly concerned with tiny details or formal rules.",
+"real_world": "Gently flag nitpicking — often used to soften your own correction.",
+"example": "I don't want to be pedantic, but it's 'fewer,' not 'less.'"
+},
+{
+"word": "cogent",
+"part_of_speech": "adjective",
+"definition": "clear, logical, and convincing.",
+"real_world": "High praise for a well-built argument.",
+"example": "He made a cogent case for delaying the launch."
+},
+{
+"word": "ephemeral",
+"part_of_speech": "adjective",
+"definition": "lasting for a very short time.",
+"real_world": "Adds weight when talking about fleeting things — trends, moments, attention.",
+"example": "Internet fame is ephemeral; here today, forgotten next week."
+},
+{
+"word": "laconic",
+"part_of_speech": "adjective",
+"definition": "using very few words.",
+"real_world": "Describe someone terse — or aim for it yourself when less is more.",
+"example": "His laconic 'fine' told me it was not, in fact, fine."
+},
+{
+"word": "fastidious",
+"part_of_speech": "adjective",
+"definition": "very attentive to detail and cleanliness; hard to please.",
+"real_world": "Describe a meticulous person or an exacting standard.",
+"example": "She's fastidious about her code — every variable named just so."
+},
+{
+"word": "circumspect",
+"part_of_speech": "adjective",
+"definition": "cautious; weighing all the consequences before acting.",
+"real_world": "Justify holding back judgment or information until you know more.",
+"example": "Be circumspect about what you share before the deal closes."
+},
+{
+"word": "galvanize",
+"part_of_speech": "verb",
+"definition": "to shock or excite someone into taking action.",
+"real_world": "Name the moment that finally spurs a person or group to move.",
+"example": "The looming deadline finally galvanized the team."
+},
+{
+"word": "arbitrary",
+"part_of_speech": "adjective",
+"definition": "based on random choice rather than reason.",
+"real_world": "Challenge a rule or number that seems made up.",
+"example": "The 200-word limit feels completely arbitrary."
+},
+{
+"word": "meticulous",
+"part_of_speech": "adjective",
+"definition": "extremely careful and precise.",
+"real_world": "Strong, specific praise for thorough work.",
+"example": "His meticulous notes saved us when the server crashed."
+},
+{
+"word": "innocuous",
+"part_of_speech": "adjective",
+"definition": "harmless; unlikely to offend or cause trouble.",
+"real_world": "Describe something that seems harmless — sometimes deceptively so.",
+"example": "It was an innocuous question that quietly changed the whole interview."
+},
+{
+"word": "reticent",
+"part_of_speech": "adjective",
+"definition": "reluctant to speak about one's thoughts or feelings.",
+"real_world": "More precise than 'shy' for someone who holds back.",
+"example": "He's reticent about his past, so don't push it."
+},
+{
+"word": "tangible",
+"part_of_speech": "adjective",
+"definition": "real and concrete; able to be clearly seen or measured.",
+"real_world": "Demand real results over vague promises.",
+"example": "I want tangible progress by Friday, not just plans."
+},
+{
+"word": "paradigm",
+"part_of_speech": "noun",
+"definition": "a typical model or pattern of how something works or is thought about.",
+"real_world": "Sounds sharp when describing a fundamental shift in how things are done.",
+"example": "Remote work was a genuine paradigm shift for the company."
+},
+{
+"word": "astute",
+"part_of_speech": "adjective",
+"definition": "sharp, perceptive, and good at judging situations.",
+"real_world": "A clean compliment for someone's insight.",
+"example": "That was an astute read of the room."
+},
+{
+"word": "mitigate",
+"part_of_speech": "verb",
+"definition": "to make something less severe or harmful.",
+"real_world": "The precise word for reducing risk or damage — common in work and finance.",
+"example": "We bought insurance to mitigate the risk."
+},
+{
+"word": "esoteric",
+"part_of_speech": "adjective",
+"definition": "understood by only a small group with specialized knowledge.",
+"real_world": "Describe niche knowledge without sounding dismissive.",
+"example": "The talk got esoteric fast — I lost the thread after slide three."
+},
+{
+"word": "amenable",
+"part_of_speech": "adjective",
+"definition": "open and willing to agree or cooperate.",
+"real_world": "Test the waters before proposing something: are they amenable to it?",
+"example": "She seemed amenable to pushing the meeting to next week."
+},
+{
+"word": "affable",
+"part_of_speech": "adjective",
+"definition": "friendly and easy to talk to.",
+"real_world": "Warm description for someone approachable.",
+"example": "The new manager is affable — people relax around him."
+},
+{
+"word": "ambivalent",
+"part_of_speech": "adjective",
+"definition": "having mixed or conflicting feelings.",
+"real_world": "Honestly name being torn, without sounding wishy-washy.",
+"example": "I'm ambivalent about the move — great job, worse city."
+},
+{
+"word": "amicable",
+"part_of_speech": "adjective",
+"definition": "friendly and without serious disagreement.",
+"real_world": "Describe a conflict that ended without bad blood.",
+"example": "They reached an amicable split on the lease."
+},
+{
+"word": "anomaly",
+"part_of_speech": "noun",
+"definition": "something that deviates from the norm.",
+"real_world": "Flag an odd data point or one-off event precisely.",
+"example": "One bad month is an anomaly, not a trend."
+},
+{
+"word": "apathy",
+"part_of_speech": "noun",
+"definition": "a lack of interest or concern.",
+"real_world": "Name disengagement in a team or yourself.",
+"example": "The low turnout came down to plain apathy."
+},
+{
+"word": "arduous",
+"part_of_speech": "adjective",
+"definition": "difficult and demanding sustained effort.",
+"real_world": "Honest word for a genuinely hard slog.",
+"example": "Onboarding was arduous but worth it."
+},
+{
+"word": "articulate",
+"part_of_speech": "adjective",
+"definition": "able to express ideas clearly and well.",
+"real_world": "Compliment someone's communication, or set a goal.",
+"example": "She's remarkably articulate under pressure."
+},
+{
+"word": "audacious",
+"part_of_speech": "adjective",
+"definition": "boldly daring, sometimes recklessly so.",
+"real_world": "Describe an ambitious or cheeky move.",
+"example": "It was an audacious bet, but it paid off."
+},
+{
+"word": "austere",
+"part_of_speech": "adjective",
+"definition": "severe or plain; without comfort or excess.",
+"real_world": "Describe a stripped-down style, budget, or person.",
+"example": "The office had an austere, no-frills feel."
+},
+{
+"word": "banal",
+"part_of_speech": "adjective",
+"definition": "so ordinary as to be boring; unoriginal.",
+"real_world": "Sharper than 'boring' for clichéd content.",
+"example": "The speech was full of banal motivational lines."
+},
+{
+"word": "benevolent",
+"part_of_speech": "adjective",
+"definition": "kind, generous, and well-meaning.",
+"real_world": "Describe goodwill, especially from someone in power.",
+"example": "A benevolent boss who actually has your back."
+},
+{
+"word": "brevity",
+"part_of_speech": "noun",
+"definition": "briefness; using few words.",
+"real_world": "Praise or request conciseness.",
+"example": "I admired the brevity of her reply — two lines, all I needed."
+},
+{
+"word": "brusque",
+"part_of_speech": "adjective",
+"definition": "abrupt or curt in manner.",
+"real_world": "Name blunt behavior without calling someone rude.",
+"example": "He was brusque on the call, probably just busy."
+},
+{
+"word": "capricious",
+"part_of_speech": "adjective",
+"definition": "given to sudden, unpredictable changes.",
+"real_world": "Describe someone or something erratic.",
+"example": "The schedule's been capricious all quarter."
+},
+{
+"word": "caustic",
+"part_of_speech": "adjective",
+"definition": "bitingly sarcastic or critical.",
+"real_world": "Describe cutting humor or commentary.",
+"example": "Her caustic wit makes meetings entertaining and dangerous."
+},
+{
+"word": "censure",
+"part_of_speech": "verb",
+"definition": "to express strong formal disapproval.",
+"real_world": "Heavier than 'criticize' for official disapproval.",
+"example": "The board moved to censure the executive."
+},
+{
+"word": "clandestine",
+"part_of_speech": "adjective",
+"definition": "kept secret, especially because improper.",
+"real_world": "Describe something done quietly and on the sly.",
+"example": "They had a clandestine plan to leave the firm."
+},
+{
+"word": "complacent",
+"part_of_speech": "adjective",
+"definition": "smugly self-satisfied; unaware of risks.",
+"real_world": "Warn against coasting after success.",
+"example": "One good year made the team complacent."
+},
+{
+"word": "condone",
+"part_of_speech": "verb",
+"definition": "to accept or overlook wrongdoing.",
+"real_world": "Useful for drawing a line on behavior.",
+"example": "I like him, but I can't condone how he handled it."
+},
+{
+"word": "conjecture",
+"part_of_speech": "noun",
+"definition": "an opinion formed without firm evidence.",
+"real_world": "Label a guess as a guess in discussions.",
+"example": "That's conjecture — we don't have the numbers yet."
+},
+{
+"word": "contrite",
+"part_of_speech": "adjective",
+"definition": "sincerely sorry for wrongdoing.",
+"real_world": "Describe genuine, not performative, remorse.",
+"example": "His apology was contrite and specific."
+},
+{
+"word": "conundrum",
+"part_of_speech": "noun",
+"definition": "a confusing and difficult problem.",
+"real_world": "A classier word for a tricky dilemma.",
+"example": "Scheduling everyone is a real conundrum."
+},
+{
+"word": "copious",
+"part_of_speech": "adjective",
+"definition": "abundant; in large quantities.",
+"real_world": "Describe a generous amount of something.",
+"example": "She took copious notes during the demo."
+},
+{
+"word": "corroborate",
+"part_of_speech": "verb",
+"definition": "to confirm or support with evidence.",
+"real_world": "Strong word for backing up a claim.",
+"example": "A second source corroborates the story."
+},
+{
+"word": "covet",
+"part_of_speech": "verb",
+"definition": "to desire something belonging to another.",
+"real_world": "Name strong (often envious) wanting.",
+"example": "Half the office covets that corner desk."
+},
+{
+"word": "cryptic",
+"part_of_speech": "adjective",
+"definition": "mysterious or obscure in meaning.",
+"real_world": "Describe a vague, hard-to-read message.",
+"example": "His cryptic text just said 'we'll talk.'"
+},
+{
+"word": "cumbersome",
+"part_of_speech": "adjective",
+"definition": "awkward, unwieldy, or burdensome.",
+"real_world": "Describe a clunky process or object.",
+"example": "The approval process is needlessly cumbersome."
+},
+{
+"word": "cursory",
+"part_of_speech": "adjective",
+"definition": "hasty and not thorough.",
+"real_world": "Flag a once-over that missed things.",
+"example": "A cursory glance won't catch these bugs."
+},
+{
+"word": "dearth",
+"part_of_speech": "noun",
+"definition": "a scarcity or lack of something.",
+"real_world": "Elevated way to say 'not enough.'",
+"example": "There's a dearth of senior talent in this market."
+},
+{
+"word": "debacle",
+"part_of_speech": "noun",
+"definition": "a sudden, humiliating failure.",
+"real_world": "Name a fiasco with appropriate weight.",
+"example": "The launch was a complete debacle."
+},
+{
+"word": "decorum",
+"part_of_speech": "noun",
+"definition": "appropriate, dignified behavior.",
+"real_world": "Talk about conduct standards gracefully.",
+"example": "Let's keep some decorum in the thread."
+},
+{
+"word": "deft",
+"part_of_speech": "adjective",
+"definition": "skillful and quick; nimble.",
+"real_world": "Compliment smooth, capable handling.",
+"example": "A deft response to a hostile question."
+},
+{
+"word": "demur",
+"part_of_speech": "verb",
+"definition": "to politely object or hesitate.",
+"real_world": "Name a soft, courteous pushback.",
+"example": "I demurred when they suggested skipping testing."
+},
+{
+"word": "deride",
+"part_of_speech": "verb",
+"definition": "to mock or ridicule.",
+"real_world": "Stronger than 'tease' for contemptuous mockery.",
+"example": "Critics derided the idea at first."
+},
+{
+"word": "despondent",
+"part_of_speech": "adjective",
+"definition": "in low spirits; dejected.",
+"real_world": "More precise than 'sad' for deep discouragement.",
+"example": "He was despondent after the rejection."
+},
+{
+"word": "deter",
+"part_of_speech": "verb",
+"definition": "to discourage or prevent an action.",
+"real_world": "Talk about disincentives clearly.",
+"example": "Higher fees deter casual buyers."
+},
+{
+"word": "diffident",
+"part_of_speech": "adjective",
+"definition": "shy and lacking self-confidence.",
+"real_world": "Subtler than 'shy' for tentative people.",
+"example": "She's brilliant but diffident in big rooms."
+},
+{
+"word": "digress",
+"part_of_speech": "verb",
+"definition": "to wander from the main subject.",
+"real_world": "Acknowledge a tangent gracefully.",
+"example": "I'm digressing — back to the budget."
+},
+{
+"word": "disparage",
+"part_of_speech": "verb",
+"definition": "to belittle or speak slightingly of.",
+"real_world": "Name put-downs precisely.",
+"example": "Don't disparage the old system; it worked for years."
+},
+{
+"word": "disparate",
+"part_of_speech": "adjective",
+"definition": "fundamentally different; not comparable.",
+"real_world": "Describe a mismatched mix.",
+"example": "We're juggling disparate tools that don't talk to each other."
+},
+{
+"word": "disseminate",
+"part_of_speech": "verb",
+"definition": "to spread widely.",
+"real_world": "Formal word for distributing information.",
+"example": "We'll disseminate the findings next week."
+},
+{
+"word": "dubious",
+"part_of_speech": "adjective",
+"definition": "doubtful; of questionable quality.",
+"real_world": "Express skepticism without accusing.",
+"example": "I'm dubious about those projections."
+},
+{
+"word": "eclectic",
+"part_of_speech": "adjective",
+"definition": "drawing from many varied sources.",
+"real_world": "Describe a diverse, mixed selection.",
+"example": "Her taste in music is wildly eclectic."
+},
+{
+"word": "egregious",
+"part_of_speech": "adjective",
+"definition": "outstandingly bad; flagrant.",
+"real_world": "Reserve for genuinely glaring errors.",
+"example": "That's an egregious typo on the homepage."
+},
+{
+"word": "eloquent",
+"part_of_speech": "adjective",
+"definition": "fluent and persuasive in speech.",
+"real_world": "High praise for moving expression.",
+"example": "An eloquent case for the rebrand."
+},
+{
+"word": "elucidate",
+"part_of_speech": "verb",
+"definition": "to make clear; explain.",
+"real_world": "Ask someone to clarify, politely.",
+"example": "Could you elucidate the second point?"
+},
+{
+"word": "emulate",
+"part_of_speech": "verb",
+"definition": "to imitate in order to match or surpass.",
+"real_world": "Talk about learning from a model.",
+"example": "I try to emulate her calm in a crisis."
+},
+{
+"word": "enigma",
+"part_of_speech": "noun",
+"definition": "a puzzling or mysterious person/thing.",
+"real_world": "Describe something hard to figure out.",
+"example": "The new hire is a bit of an enigma."
+},
+{
+"word": "erudite",
+"part_of_speech": "adjective",
+"definition": "showing great knowledge; learned.",
+"real_world": "Compliment deep, scholarly expertise.",
+"example": "An erudite but surprisingly funny lecture."
+},
+{
+"word": "euphemism",
+"part_of_speech": "noun",
+"definition": "a mild term for something harsh.",
+"real_world": "Name softened language for what it is.",
+"example": "'Letting people go' is a euphemism for layoffs."
+},
+{
+"word": "exacerbate",
+"part_of_speech": "verb",
+"definition": "to make worse.",
+"real_world": "Precise word for worsening a situation.",
+"example": "Skipping sleep will only exacerbate the stress."
+},
+{
+"word": "expedite",
+"part_of_speech": "verb",
+"definition": "to speed up a process.",
+"real_world": "Useful in work/logistics requests.",
+"example": "Can we expedite the shipment?"
+},
+{
+"word": "extol",
+"part_of_speech": "verb",
+"definition": "to praise highly.",
+"real_world": "Stronger than 'compliment.'",
+"example": "Reviews extol the camera but pan the battery."
+},
+{
+"word": "facetious",
+"part_of_speech": "adjective",
+"definition": "joking, often inappropriately.",
+"real_world": "Flag non-serious comments.",
+"example": "I was being facetious — don't quote me on that."
+},
+{
+"word": "fallacy",
+"part_of_speech": "noun",
+"definition": "a mistaken belief or flawed reasoning.",
+"real_world": "Name a logic error in a debate.",
+"example": "That's a fallacy — popularity isn't proof."
+},
+{
+"word": "fervent",
+"part_of_speech": "adjective",
+"definition": "intensely passionate.",
+"real_world": "Describe strong, heartfelt enthusiasm.",
+"example": "A fervent supporter of the project."
+},
+{
+"word": "flippant",
+"part_of_speech": "adjective",
+"definition": "not showing due seriousness.",
+"real_world": "Call out a too-casual response.",
+"example": "A flippant answer to a serious concern."
+},
+{
+"word": "fortuitous",
+"part_of_speech": "adjective",
+"definition": "happening by lucky chance.",
+"real_world": "Describe a happy accident precisely.",
+"example": "Meeting her there was entirely fortuitous."
+},
+{
+"word": "frugal",
+"part_of_speech": "adjective",
+"definition": "careful and economical with resources.",
+"real_world": "Positive word for spending wisely.",
+"example": "Frugal habits funded the whole trip."
+},
+{
+"word": "furtive",
+"part_of_speech": "adjective",
+"definition": "secretive; trying to avoid notice.",
+"real_world": "Describe sneaky, glancing behavior.",
+"example": "A furtive look at his phone gave it away."
+},
+{
+"word": "futile",
+"part_of_speech": "adjective",
+"definition": "incapable of producing a useful result.",
+"real_world": "Name a pointless effort honestly.",
+"example": "Arguing further was futile."
+},
+{
+"word": "garrulous",
+"part_of_speech": "adjective",
+"definition": "excessively talkative.",
+"real_world": "Describe someone who won't stop talking.",
+"example": "Our garrulous neighbor cornered me for an hour."
+},
+{
+"word": "glib",
+"part_of_speech": "adjective",
+"definition": "fluent but insincere or shallow.",
+"real_world": "Flag smooth talk with no substance.",
+"example": "A glib reassurance that solved nothing."
+},
+{
+"word": "hackneyed",
+"part_of_speech": "adjective",
+"definition": "overused and unoriginal.",
+"real_world": "Sharper than 'clichéd.'",
+"example": "The slogan felt hackneyed."
+},
+{
+"word": "haughty",
+"part_of_speech": "adjective",
+"definition": "arrogantly superior.",
+"real_world": "Describe condescending pride.",
+"example": "A haughty reply to a fair question."
+},
+{
+"word": "iconoclast",
+"part_of_speech": "noun",
+"definition": "one who attacks cherished beliefs.",
+"real_world": "Describe a norm-challenger.",
+"example": "She's an iconoclast who questions every process."
+},
+{
+"word": "idiosyncrasy",
+"part_of_speech": "noun",
+"definition": "a peculiar individual habit.",
+"real_world": "Name a quirk fondly and precisely.",
+"example": "Saving drafts in all-caps is one of his idiosyncrasies."
+},
+{
+"word": "impede",
+"part_of_speech": "verb",
+"definition": "to obstruct or slow progress.",
+"real_world": "Name a blocker formally.",
+"example": "Poor docs impede new hires."
+},
+{
+"word": "impetuous",
+"part_of_speech": "adjective",
+"definition": "acting rashly, without thought.",
+"real_world": "Describe impulsive decisions.",
+"example": "An impetuous reply she later regretted."
+},
+{
+"word": "implicit",
+"part_of_speech": "adjective",
+"definition": "implied though not stated.",
+"real_world": "Name unspoken assumptions.",
+"example": "There was an implicit agreement to keep it quiet."
+},
+{
+"word": "inadvertent",
+"part_of_speech": "adjective",
+"definition": "unintentional; accidental.",
+"real_world": "Soften blame for a genuine mistake.",
+"example": "An inadvertent reply-all, not malice."
+},
+{
+"word": "incessant",
+"part_of_speech": "adjective",
+"definition": "never-ending; constant.",
+"real_world": "Describe relentless repetition.",
+"example": "The incessant notifications wrecked my focus."
+},
+{
+"word": "incisive",
+"part_of_speech": "adjective",
+"definition": "sharply clear and direct.",
+"real_world": "Compliment penetrating insight.",
+"example": "An incisive question that reframed the whole debate."
+},
+{
+"word": "incredulous",
+"part_of_speech": "adjective",
+"definition": "unwilling or unable to believe.",
+"real_world": "Describe disbelief precisely.",
+"example": "I was incredulous when I saw the bill."
+},
+{
+"word": "indignant",
+"part_of_speech": "adjective",
+"definition": "angry at something unfair.",
+"real_world": "Name righteous anger.",
+"example": "She was indignant about the double standard."
+},
+{
+"word": "indolent",
+"part_of_speech": "adjective",
+"definition": "habitually lazy.",
+"real_world": "A pointed word for chronic laziness.",
+"example": "An indolent afternoon that ate my to-do list."
+},
+{
+"word": "inept",
+"part_of_speech": "adjective",
+"definition": "lacking skill; clumsy.",
+"real_world": "Honest word for incompetence.",
+"example": "An inept rollout that confused everyone."
+},
+{
+"word": "ingenuous",
+"part_of_speech": "adjective",
+"definition": "innocent and unsuspecting; candid.",
+"real_world": "Describe endearing naivety (not 'ingenious').",
+"example": "An ingenuous question that cut to the point."
+},
+{
+"word": "innate",
+"part_of_speech": "adjective",
+"definition": "inborn; natural rather than learned.",
+"real_world": "Talk about inherent qualities.",
+"example": "She has an innate sense for design."
+},
+{
+"word": "insidious",
+"part_of_speech": "adjective",
+"definition": "harmful in a gradual, subtle way.",
+"real_world": "Name creeping, hidden danger.",
+"example": "Burnout is insidious — you notice too late."
+},
+{
+"word": "intrepid",
+"part_of_speech": "adjective",
+"definition": "fearless and adventurous.",
+"real_world": "Admiring word for boldness.",
+"example": "An intrepid traveler with no fixed plan."
+},
+{
+"word": "inundate",
+"part_of_speech": "verb",
+"definition": "to overwhelm with a flood of things.",
+"real_world": "Describe being swamped.",
+"example": "We were inundated with applications."
+},
+{
+"word": "jovial",
+"part_of_speech": "adjective",
+"definition": "cheerful and good-humored.",
+"real_world": "Describe warm, hearty cheer.",
+"example": "He's jovial even on Mondays."
+},
+{
+"word": "judicious",
+"part_of_speech": "adjective",
+"definition": "showing good, careful judgment.",
+"real_world": "Praise a wise, measured choice.",
+"example": "A judicious use of the remaining budget."
+},
+{
+"word": "lethargic",
+"part_of_speech": "adjective",
+"definition": "sluggish; lacking energy.",
+"real_world": "Precise word for low energy.",
+"example": "The whole team felt lethargic after lunch."
+},
+{
+"word": "levity",
+"part_of_speech": "noun",
+"definition": "light humor in a serious context.",
+"real_world": "Name a well-timed bit of lightness.",
+"example": "A touch of levity broke the tension."
+},
+{
+"word": "lucid",
+"part_of_speech": "adjective",
+"definition": "clear and easy to understand.",
+"real_world": "Praise clarity of thought or writing.",
+"example": "A lucid explanation of a messy topic."
+},
+{
+"word": "malleable",
+"part_of_speech": "adjective",
+"definition": "easily shaped or influenced.",
+"real_world": "Describe flexibility (of plans, people, materials).",
+"example": "Early plans should stay malleable."
+},
+{
+"word": "maverick",
+"part_of_speech": "noun",
+"definition": "an unconventional, independent person.",
+"real_world": "Describe a rule-breaker positively.",
+"example": "A maverick who ignores the playbook — usually right."
+},
+{
+"word": "mercurial",
+"part_of_speech": "adjective",
+"definition": "prone to sudden mood changes.",
+"real_world": "Describe volatility in temperament.",
+"example": "A mercurial client — thrilled one day, furious the next."
+},
+{
+"word": "mollify",
+"part_of_speech": "verb",
+"definition": "to soothe or appease.",
+"real_world": "Talk about calming someone down.",
+"example": "A quick call mollified the upset customer."
+},
+{
+"word": "morose",
+"part_of_speech": "adjective",
+"definition": "gloomy and sullen.",
+"real_world": "More specific than 'sad.'",
+"example": "He's been morose since the news."
+},
+{
+"word": "mundane",
+"part_of_speech": "adjective",
+"definition": "dull; ordinary; everyday.",
+"real_world": "Describe unremarkable routine.",
+"example": "The mundane parts of the job add up."
+},
+{
+"word": "myriad",
+"part_of_speech": "noun",
+"definition": "a countless or very great number.",
+"real_world": "Elevated 'a ton of.'",
+"example": "A myriad of small fixes, none urgent."
+},
+{
+"word": "nebulous",
+"part_of_speech": "adjective",
+"definition": "vague; unclear; ill-defined.",
+"real_world": "Push for specifics on a fuzzy idea.",
+"example": "The goal is still too nebulous to plan around."
+},
+{
+"word": "nonchalant",
+"part_of_speech": "adjective",
+"definition": "casually unconcerned.",
+"real_world": "Describe cool indifference.",
+"example": "A nonchalant shrug at the bad news."
+},
+{
+"word": "obfuscate",
+"part_of_speech": "verb",
+"definition": "to deliberately make unclear.",
+"real_world": "Call out intentional confusion.",
+"example": "The report obfuscates more than it explains."
+},
+{
+"word": "obsequious",
+"part_of_speech": "adjective",
+"definition": "excessively eager to please.",
+"real_world": "Name over-the-top flattery.",
+"example": "An obsequious tone that felt fake."
+},
+{
+"word": "ominous",
+"part_of_speech": "adjective",
+"definition": "suggesting something bad is coming.",
+"real_world": "Describe a foreboding sign.",
+"example": "An ominous silence after the question."
+},
+{
+"word": "onerous",
+"part_of_speech": "adjective",
+"definition": "involving heavy, burdensome effort.",
+"real_world": "Describe a demanding obligation.",
+"example": "The reporting requirements are onerous."
+},
+{
+"word": "opaque",
+"part_of_speech": "adjective",
+"definition": "hard to understand; not transparent.",
+"real_world": "Describe murky processes or writing.",
+"example": "The pricing is deliberately opaque."
+},
+{
+"word": "ostentatious",
+"part_of_speech": "adjective",
+"definition": "showy in a vulgar, attention-seeking way.",
+"real_world": "Describe flashy excess.",
+"example": "An ostentatious watch he wouldn't stop mentioning."
+},
+{
+"word": "palpable",
+"part_of_speech": "adjective",
+"definition": "so intense it can almost be felt.",
+"real_world": "Describe a tangible atmosphere.",
+"example": "The tension in the room was palpable."
+},
+{
+"word": "panacea",
+"part_of_speech": "noun",
+"definition": "a supposed cure-all.",
+"real_world": "Push back on silver-bullet thinking.",
+"example": "More tools aren't a panacea for bad process."
+},
+{
+"word": "paradox",
+"part_of_speech": "noun",
+"definition": "a seemingly contradictory truth.",
+"real_world": "Frame a puzzle that holds two truths.",
+"example": "It's a paradox: slowing down made us faster."
+},
+{
+"word": "parsimonious",
+"part_of_speech": "adjective",
+"definition": "excessively frugal; stingy.",
+"real_world": "Stronger than 'frugal' — borderline cheap.",
+"example": "Parsimonious budgeting starved the project."
+},
+{
+"word": "penchant",
+"part_of_speech": "noun",
+"definition": "a strong liking or habit.",
+"real_world": "Name a tendency elegantly.",
+"example": "A penchant for last-minute changes."
+},
+{
+"word": "perfunctory",
+"part_of_speech": "adjective",
+"definition": "done with minimal effort, as a formality.",
+"real_world": "Flag going-through-the-motions.",
+"example": "A perfunctory 'looks good' with no real review."
+},
+{
+"word": "pernicious",
+"part_of_speech": "adjective",
+"definition": "harmful in a subtle, gradual way.",
+"real_world": "Name quiet, spreading harm.",
+"example": "A pernicious habit of skipping breaks."
+},
+{
+"word": "pertinent",
+"part_of_speech": "adjective",
+"definition": "directly relevant.",
+"real_world": "Keep discussions on point.",
+"example": "Let's stick to the pertinent details."
+},
+{
+"word": "pervasive",
+"part_of_speech": "adjective",
+"definition": "spread throughout; widespread.",
+"real_world": "Describe something everywhere in a system.",
+"example": "A pervasive culture of overwork."
+},
+{
+"word": "placate",
+"part_of_speech": "verb",
+"definition": "to calm someone's anger.",
+"real_world": "Talk about defusing frustration.",
+"example": "We placated them with a refund and an apology."
+},
+{
+"word": "plausible",
+"part_of_speech": "adjective",
+"definition": "seemingly reasonable or probable.",
+"real_world": "Rate an explanation's believability.",
+"example": "A plausible theory, but we should verify."
+},
+{
+"word": "poignant",
+"part_of_speech": "adjective",
+"definition": "evoking keen, often sad emotion.",
+"real_world": "Describe something touching.",
+"example": "A poignant note from a departing colleague."
+},
+{
+"word": "precarious",
+"part_of_speech": "adjective",
+"definition": "dangerously unstable or uncertain.",
+"real_world": "Describe a shaky situation.",
+"example": "Cash flow is precarious this quarter."
+},
+{
+"word": "precocious",
+"part_of_speech": "adjective",
+"definition": "developed earlier than usual.",
+"real_world": "Describe early talent.",
+"example": "A precocious coder who shipped at fifteen."
+},
+{
+"word": "predilection",
+"part_of_speech": "noun",
+"definition": "a preference or special liking.",
+"real_world": "Fancy word for a leaning.",
+"example": "A predilection for overengineering."
+},
+{
+"word": "pretentious",
+"part_of_speech": "adjective",
+"definition": "trying to impress with false importance.",
+"real_world": "Call out pomp without much behind it.",
+"example": "The deck was pretentious — big words, thin ideas."
+},
+{
+"word": "prevalent",
+"part_of_speech": "adjective",
+"definition": "widespread; common.",
+"real_world": "Describe how common something is.",
+"example": "Remote work is prevalent in the industry now."
+},
+{
+"word": "profound",
+"part_of_speech": "adjective",
+"definition": "very deep or far-reaching.",
+"real_world": "Mark something genuinely significant.",
+"example": "A profound shift in how we work."
+},
+{
+"word": "proliferate",
+"part_of_speech": "verb",
+"definition": "to increase rapidly in number.",
+"real_world": "Describe fast spread or growth.",
+"example": "Side projects proliferated until nothing shipped."
+},
+{
+"word": "prosaic",
+"part_of_speech": "adjective",
+"definition": "plain and unimaginative.",
+"real_world": "Describe dull practicality.",
+"example": "A prosaic but effective solution."
+},
+{
+"word": "quandary",
+"part_of_speech": "noun",
+"definition": "a state of perplexity; a dilemma.",
+"real_world": "Name a tough choice.",
+"example": "I'm in a quandary over which offer to take."
+},
+{
+"word": "quell",
+"part_of_speech": "verb",
+"definition": "to suppress or put an end to.",
+"real_world": "Talk about calming or stopping something.",
+"example": "A clear plan quelled the panic."
+},
+{
+"word": "quintessential",
+"part_of_speech": "adjective",
+"definition": "the most perfect example of a type.",
+"real_world": "Name the textbook case.",
+"example": "The quintessential startup pivot story."
+},
+{
+"word": "rapport",
+"part_of_speech": "noun",
+"definition": "a close, harmonious relationship.",
+"real_world": "Talk about connection and trust.",
+"example": "We built rapport before talking business."
+},
+{
+"word": "rebuff",
+"part_of_speech": "verb",
+"definition": "to reject bluntly.",
+"real_world": "Describe a curt refusal.",
+"example": "My offer to help was rebuffed."
+},
+{
+"word": "recalcitrant",
+"part_of_speech": "adjective",
+"definition": "stubbornly resistant to authority.",
+"real_world": "Describe defiant resistance.",
+"example": "A recalcitrant server that refuses to behave."
+},
+{
+"word": "reciprocate",
+"part_of_speech": "verb",
+"definition": "to respond to an action in kind.",
+"real_world": "Talk about mutual exchange.",
+"example": "They helped us, so we should reciprocate."
+},
+{
+"word": "redundant",
+"part_of_speech": "adjective",
+"definition": "unnecessary because duplicated.",
+"real_world": "Trim repetition precisely.",
+"example": "This paragraph is redundant — cut it."
+},
+{
+"word": "refute",
+"part_of_speech": "verb",
+"definition": "to prove a statement wrong.",
+"real_world": "Stronger than 'disagree' — with evidence.",
+"example": "The data refutes that assumption."
+},
+{
+"word": "resilient",
+"part_of_speech": "adjective",
+"definition": "able to recover quickly from difficulty.",
+"real_world": "Praise the capacity to bounce back.",
+"example": "A resilient team that learns from misses."
+},
+{
+"word": "resolute",
+"part_of_speech": "adjective",
+"definition": "firmly determined.",
+"real_world": "Describe unwavering resolve.",
+"example": "She stayed resolute despite the pushback."
+},
+{
+"word": "rhetoric",
+"part_of_speech": "noun",
+"definition": "persuasive (sometimes empty) language.",
+"real_world": "Distinguish persuasion from substance.",
+"example": "Less rhetoric, more results."
+},
+{
+"word": "robust",
+"part_of_speech": "adjective",
+"definition": "strong and able to withstand stress.",
+"real_world": "Describe sturdy systems or plans.",
+"example": "We need a more robust backup process."
+},
+{
+"word": "sardonic",
+"part_of_speech": "adjective",
+"definition": "grimly mocking or cynical.",
+"real_world": "Describe dark, dry humor.",
+"example": "A sardonic take on the all-hands."
+},
+{
+"word": "scrupulous",
+"part_of_speech": "adjective",
+"definition": "careful, thorough, and principled.",
+"real_world": "Praise diligence and integrity.",
+"example": "Scrupulous about citing his sources."
+},
+{
+"word": "scrutinize",
+"part_of_speech": "verb",
+"definition": "to examine closely and critically.",
+"real_world": "Talk about careful inspection.",
+"example": "Let's scrutinize the contract before signing."
+},
+{
+"word": "serene",
+"part_of_speech": "adjective",
+"definition": "calm and untroubled.",
+"real_world": "Describe deep calm.",
+"example": "A serene start to a chaotic week."
+},
+{
+"word": "spurious",
+"part_of_speech": "adjective",
+"definition": "false or fake despite seeming real.",
+"real_world": "Flag a bogus claim or correlation.",
+"example": "A spurious link between the two metrics."
+},
+{
+"word": "squander",
+"part_of_speech": "verb",
+"definition": "to waste recklessly.",
+"real_world": "Name wasted resources or chances.",
+"example": "Don't squander the head start."
+},
+{
+"word": "stoic",
+"part_of_speech": "adjective",
+"definition": "enduring hardship without complaint.",
+"real_world": "Describe calm endurance.",
+"example": "Stoic about the setback, already planning next steps."
+},
+{
+"word": "stringent",
+"part_of_speech": "adjective",
+"definition": "strict; rigorous.",
+"real_world": "Describe tight rules or standards.",
+"example": "Stringent security requirements slowed us down."
+},
+{
+"word": "subjective",
+"part_of_speech": "adjective",
+"definition": "based on personal feelings, not facts.",
+"real_world": "Separate opinion from objective fact.",
+"example": "'Best' is subjective — let's define metrics."
+},
+{
+"word": "substantiate",
+"part_of_speech": "verb",
+"definition": "to support with evidence.",
+"real_world": "Demand backing for a claim.",
+"example": "Can you substantiate that number?"
+},
+{
+"word": "subtle",
+"part_of_speech": "adjective",
+"definition": "delicate; not obvious.",
+"real_world": "Describe fine, easily-missed distinctions.",
+"example": "A subtle change that made a big difference."
+},
+{
+"word": "superfluous",
+"part_of_speech": "adjective",
+"definition": "more than needed; unnecessary.",
+"real_world": "Trim excess elegantly.",
+"example": "Half these slides are superfluous."
+},
+{
+"word": "surreptitious",
+"part_of_speech": "adjective",
+"definition": "done secretly to avoid notice.",
+"real_world": "Describe stealthy action.",
+"example": "A surreptitious glance at the answer key."
+},
+{
+"word": "sycophant",
+"part_of_speech": "noun",
+"definition": "a self-serving flatterer.",
+"real_world": "Name a yes-man bluntly.",
+"example": "Surrounded by sycophants, he heard no bad news."
+},
+{
+"word": "tacit",
+"part_of_speech": "adjective",
+"definition": "understood without being stated.",
+"real_world": "Name unspoken agreement.",
+"example": "Tacit approval isn't the same as a yes."
+},
+{
+"word": "taciturn",
+"part_of_speech": "adjective",
+"definition": "reserved; saying little.",
+"real_world": "Describe a quiet temperament.",
+"example": "Our taciturn lead lets the work speak."
+},
+{
+"word": "tedious",
+"part_of_speech": "adjective",
+"definition": "tiresomely long or dull.",
+"real_world": "Honest word for mind-numbing tasks.",
+"example": "Tedious data entry ate the morning."
+},
+{
+"word": "tenacious",
+"part_of_speech": "adjective",
+"definition": "persistent; not giving up.",
+"real_world": "Praise determined grit.",
+"example": "Tenacious follow-up finally closed the deal."
+},
+{
+"word": "tentative",
+"part_of_speech": "adjective",
+"definition": "provisional; not yet confirmed.",
+"real_world": "Mark something not-yet-final.",
+"example": "A tentative date, pending the venue."
+},
+{
+"word": "terse",
+"part_of_speech": "adjective",
+"definition": "brief and to the point, sometimes curt.",
+"real_world": "Describe clipped communication.",
+"example": "A terse 'noted' was all I got back."
+},
+{
+"word": "transient",
+"part_of_speech": "adjective",
+"definition": "lasting only a short time.",
+"real_world": "Describe the temporary.",
+"example": "A transient bug we couldn't reproduce."
+},
+{
+"word": "trepidation",
+"part_of_speech": "noun",
+"definition": "fear or anxiety about what may happen.",
+"real_world": "Name nervous anticipation.",
+"example": "I opened the results with some trepidation."
+},
+{
+"word": "trite",
+"part_of_speech": "adjective",
+"definition": "overused and lacking freshness.",
+"real_world": "Sharper than 'unoriginal.'",
+"example": "A trite ending that undercut the talk."
+},
+{
+"word": "unprecedented",
+"part_of_speech": "adjective",
+"definition": "never done or known before.",
+"real_world": "Mark a genuine first.",
+"example": "Unprecedented demand crashed the site."
+},
+{
+"word": "vacillate",
+"part_of_speech": "verb",
+"definition": "to waver between options.",
+"real_world": "Name indecision precisely.",
+"example": "Stop vacillating and pick a vendor."
+},
+{
+"word": "venerate",
+"part_of_speech": "verb",
+"definition": "to regard with deep respect.",
+"real_world": "Talk about reverence.",
+"example": "The team venerates the original founder."
+},
+{
+"word": "verbose",
+"part_of_speech": "adjective",
+"definition": "using more words than needed.",
+"real_world": "Flag wordiness.",
+"example": "The email was verbose — three lines would do."
+},
+{
+"word": "vehement",
+"part_of_speech": "adjective",
+"definition": "showing strong, forceful feeling.",
+"real_world": "Describe intense conviction.",
+"example": "A vehement objection to the timeline."
+},
+{
+"word": "vex",
+"part_of_speech": "verb",
+"definition": "to annoy or frustrate.",
+"real_world": "A crisp word for irritation.",
+"example": "The recurring error really vexes me."
+},
+{
+"word": "vicarious",
+"part_of_speech": "adjective",
+"definition": "experienced through someone else.",
+"real_world": "Describe living through another.",
+"example": "Vicarious thrills from her travel posts."
+},
+{
+"word": "vigilant",
+"part_of_speech": "adjective",
+"definition": "keeping careful watch for trouble.",
+"real_world": "Talk about staying alert.",
+"example": "Stay vigilant about phishing emails."
+},
+{
+"word": "vindicate",
+"part_of_speech": "verb",
+"definition": "to clear of blame; prove right.",
+"real_world": "Talk about being proven correct.",
+"example": "The results vindicated her early call."
+},
+{
+"word": "vivacious",
+"part_of_speech": "adjective",
+"definition": "lively and spirited.",
+"real_world": "Describe bright energy.",
+"example": "A vivacious host who kept things moving."
+},
+{
+"word": "voracious",
+"part_of_speech": "adjective",
+"definition": "having a huge appetite (for food or activity).",
+"real_world": "Describe intense hunger or eagerness.",
+"example": "A voracious reader — two books a week."
+},
+{
+"word": "wary",
+"part_of_speech": "adjective",
+"definition": "cautious about possible danger.",
+"real_world": "Describe guarded caution.",
+"example": "I'm wary of deals that good."
+},
+{
+"word": "whimsical",
+"part_of_speech": "adjective",
+"definition": "playfully fanciful.",
+"real_world": "Describe charming unpredictability.",
+"example": "A whimsical design that made people smile."
+},
+{
+"word": "zealous",
+"part_of_speech": "adjective",
+"definition": "intensely enthusiastic and committed.",
+"real_world": "Describe fervent dedication.",
+"example": "A zealous advocate for accessibility."
+}
 ]
