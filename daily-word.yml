@@ -1,0 +1,39 @@
+name: Daily word
+
+# Runs every day, and can also be triggered by hand from the Actions tab.
+on:
+  schedule:
+    # Time is in UTC. 14:00 UTC = 7:00 AM Pacific during daylight saving (PDT).
+    # In winter (PST) this becomes 6:00 AM Pacific. Adjust to 15 for 7 AM PST.
+    - cron: "0 14 * * *"
+  workflow_dispatch: {}
+
+# Allow the job to commit the updated progress.json back to the repo.
+permissions:
+  contents: write
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Send the word
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python send_word.py
+
+      - name: Save progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add progress.json
+          git commit -m "Advance to next word" || echo "Nothing to commit"
+          git push
