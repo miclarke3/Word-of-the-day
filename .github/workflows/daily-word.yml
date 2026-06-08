@@ -5,7 +5,7 @@ on:
   schedule:
     # Time is in UTC. 14:00 UTC = 7:00 AM Pacific during daylight saving (PDT).
     # In winter (PST) this becomes 6:00 AM Pacific. Adjust to 15 for 7 AM PST.
-    - cron: "0 14 * * *"
+    - cron: "7 14 * * *"
   workflow_dispatch: {}
 
 # Allow the job to commit the updated progress.json back to the repo.
